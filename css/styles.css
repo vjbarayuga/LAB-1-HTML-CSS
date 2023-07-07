@@ -1,0 +1,25 @@
+.outer{
+    padding-top: 4%;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    display: inline-block;
+    padding: 5%;
+    background-color: rgb(43, 6, 250);
+
+}
+.box2{
+    display: inline-block;
+    padding: 5%;
+    background-color: rgb(221, 6, 250);
+
+}
+.box3{
+    display: inline-block;
+    padding: 5%;
+    background-color: rgb(250, 246, 6);
+
+}
